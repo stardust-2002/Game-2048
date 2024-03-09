@@ -1,0 +1,57 @@
+{
+	"formatVersion": 2,
+	"appVersion": "0.60.4",
+	"files": [
+		{
+			"isClone": false,
+			"noteId": "khMiHB2AtX82",
+			"notePath": [
+				"khMiHB2AtX82"
+			],
+			"title": "2048",
+			"notePosition": 20,
+			"prefix": null,
+			"isExpanded": false,
+			"type": "text",
+			"mime": "text/html",
+			"attributes": [
+				{
+					"type": "relation",
+					"name": "imageLink",
+					"value": "AiFdRuccIZ1S",
+					"isInheritable": false,
+					"position": 2
+				}
+			],
+			"format": "markdown",
+			"dataFileName": "2048.md",
+			"dirFileName": "2048",
+			"children": [
+				{
+					"isClone": false,
+					"noteId": "AiFdRuccIZ1S",
+					"notePath": [
+						"khMiHB2AtX82",
+						"AiFdRuccIZ1S"
+					],
+					"title": "image.png",
+					"notePosition": 20,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "image",
+					"mime": "image/png",
+					"attributes": [
+						{
+							"type": "label",
+							"name": "originalFileName",
+							"value": "image.png",
+							"isInheritable": false,
+							"position": 1000
+						}
+					],
+					"dataFileName": "image.png"
+				}
+			]
+		}
+	]
+}
